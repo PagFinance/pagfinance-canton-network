@@ -1,8 +1,11 @@
 ## Development Fund Proposal
 
 **Author:** Andre Straube (PagFinance)
+
 **Status:** Draft
+
 **Created:** 2026-06-15
+
 **Label:** financial-workflows-composability
 
 **Champion:** need Champion
