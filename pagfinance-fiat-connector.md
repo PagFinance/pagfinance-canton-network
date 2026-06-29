@@ -1,4 +1,4 @@
-## Development Fund Proposal
+# Canton Network Fiat Connector - Development Fund Proposal
 
 **Author:** Andre Straube (PagFinance)
 
@@ -96,7 +96,7 @@ No backward compatibility impact. This is additive: a new connector pattern and 
 
 ---
 
-########### Acceptance Criteria ############
+## Acceptance Criteria
 
 The Tech & Ops Committee will evaluate completion based on:
 
@@ -106,13 +106,13 @@ The Tech & Ops Committee will evaluate completion based on:
 - Ecosystem value: the reference package is reusable by any participant running an enterprise node, the bidirectional pattern is proven, and the live BRL corridor demonstrates the first fiat connection of its kind on Canton, opening the Brazilian market to the network
 - Adoption (Milestone 5 only, performance-based): verified institutional integrations as defined in the milestone, with the Foundation bearing zero upfront risk
 
----#############################
+---
 
 ## Funding
 
 **Total Funding Request:** 3.600.000 CC
 
-The request is sized against ecosystem value, not engineering effort alone. The connector unlocks an entire capability category for Canton, fiat moving both into and out of the network against real bank rails, and proves it on the first corridor into a market of more than 180 million users moving US$5T anually.CC amounts assume the Foundation's reference valuation and are subject to the volatility stipulation below.
+The request is sized against ecosystem value, not engineering effort alone. The connector unlocks an entire capability category for Canton, fiat moving both into and out of the network against real bank rails, and proves it on the first corridor into a market of more than 180 million users moving US$5T annually. CC amounts assume the Foundation's reference valuation and are subject to the volatility stipulation below.
 
 ### Payment Breakdown by Milestone
 
